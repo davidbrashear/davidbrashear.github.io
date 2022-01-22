@@ -1,41 +1,31 @@
 body {
-  background-color:yellow;
-}
-h1 {
-  color:blue;
-  font-family:helvetica;
-  background-color: pink;
-  border: 5px solid red;
-  padding: 50px;
+  background-color:black;
 }
 h1{
   color: black;
   background: white;
-  font-family: "Gill Sans";
+  font-family: "Monaco";
   text-transform: uppercase;
 }
 p {
-  color:pink;
-  background-color: blue;
-  border: 2px dotted green;
+  color:#39FF14;
+  background-color: black;
 }
 #highlight {
-  color: orange;
-  background-color: green;
-  border: 2px dotted green;
+  color: black;
+  background-color: #39FF14;
+  border: 2px dotted #39FF14;
 }
 .top {
-  background-color: red;
-  float: left;
+  background-color: #39FF14;
 }
 h3 {
-  color:purple;
+  color: black;
   background-color: white;
-  border: 3px double pink;
+  border: 3px double #39FF14;
 }
 img {
-  border: 5px solid fuchsia;
-  width: 50%;
-  height: 50%;
-  margin-left: 100px;
+  border: 5px solid #39FF14;
+  width: 35%;
+  height: 35%;
 }
